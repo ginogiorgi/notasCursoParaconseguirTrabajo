@@ -9,7 +9,16 @@ Como prepararme en HTML y CSS:
 
 # Clase 7
 
+Como prepararme en Javascript:
+
 - Leer los 33 conceptos de Javascript: https://github.com/leonardomso/33-js-concepts
 - Practicar todo lo teorico
 - Replciar funcionalidades que me gusten como dar feedback, un quiz, etc
 - Cuando haga un curso ver la clase y despues tratar de replicarla sin ver
+
+# Clase 8
+
+Como prepararme con frameworks:
+
+- Antes tener las bases de Javascript claras
+- Practicar fundamentos, componentes, consumo de Apis, enrutamiento

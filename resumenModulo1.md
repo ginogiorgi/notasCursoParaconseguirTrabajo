@@ -29,3 +29,11 @@ Currriculum:
 - Educacion: titulo secundario, titulo de ingles, que hice de la carrera ingenieria en sistemas, curso de corderhouse y platzi
 
 Herramienta para hacer curriculum: canva.com
+
+# Clase 4
+
+Ideas para mi pagina web:
+
+- Hacerla en el framework que mejor practique
+- Debe mostrar mi estilo
+- Mostrar nombre, sobre mi, contacto, proyectos, skills, mi foto

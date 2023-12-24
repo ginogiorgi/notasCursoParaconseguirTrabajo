@@ -22,3 +22,11 @@ Como prepararme con frameworks:
 
 - Antes tener las bases de Javascript claras
 - Practicar fundamentos, componentes, consumo de Apis, enrutamiento
+
+# Clase 9
+
+Como prepararme para resolución d eproblemas y live coding:
+
+- Hacer un diagrama gráfico de el problema analizando entradas y salidas (parametros de entrada y salida)
+- Pensar en voz alta
+- Nunca darme por vencido

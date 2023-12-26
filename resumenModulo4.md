@@ -30,3 +30,16 @@ Que framework elegir par ahacer la prueba(angular, react, view)
 Como estar al dia en tecnología:
 
 - Integrarme en comunidades
+
+# Clase 20
+
+Tips para mantenerme creativo:
+
+- Socializar
+- Aprender nuevas habilidades
+- Ponerme un reto
+- Aceptar retroalimentación
+- Terminar proyectos
+- Apagar distracciones
+- Contribuir a proyectos open source
+- Contribuir o realizar proyectos de NPM

@@ -22,3 +22,11 @@ Que framework elegir par ahacer la prueba(angular, react, view)
 - Cumplir todos los requerimientos primero
 - Trata de hacer deploy(gh-pages)
 - Hacer el codigo 100% en ingles
+- Usar las mejores practicas (identación, metodologia de css, mejores practicas para un framework)
+- Hacer un buen Read.me(descripcion del proyecto, como ejecutar, correr, screenshots)
+
+# Clase 19
+
+Como estar al dia en tecnología:
+
+- Integrarme en comunidades
